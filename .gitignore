@@ -13,3 +13,4 @@ research/3. MidEvaluation/encoder-decoder/gpt2_saved_conversation_model
 research/3. MidEvaluation/encoder-decoder/conversation_model_bert_tokenizer
 research/3. MidEvaluation/fineTune/gpt2_conversation_predict
 research/3. MidEvaluation/fineTune/gpt2_conversation_predict_model
+research/3. MidEvaluation/fineTune/bart_partial_entire_model
