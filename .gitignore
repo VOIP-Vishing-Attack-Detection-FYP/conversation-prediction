@@ -18,3 +18,4 @@ research/3. MidEvaluation/fineTune/xlnet_finetuned
 research/3. MidEvaluation/fineTune/results
 research/3. MidEvaluation/fineTune/logs
 testdataset.conversation
+research/3. MidEvaluation/fineTune/t5_finetuned_conversation
