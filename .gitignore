@@ -19,3 +19,4 @@ research/3. MidEvaluation/fineTune/results
 research/3. MidEvaluation/fineTune/logs
 testdataset.csv
 research/3. MidEvaluation/fineTune/t5_finetuned_conversation
+.env
